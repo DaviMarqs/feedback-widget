@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FeedbackWidget" height="80" title="Feedback Widget" src="feedback-widget-screenshot/Feedback widget.jpg" />
+  <img alt="FeedbackWidget" height="400" title="Feedback Widget" src="feedback-widget-screenshot/Feedback widget.jpg" />
 </h1>
 
 ## 💻 Projeto
