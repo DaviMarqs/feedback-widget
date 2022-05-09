@@ -2,6 +2,8 @@
   <img alt="FeedbackWidget" height="400" title="Feedback Widget" src="feedback-widget-screenshot/Feedback widget.jpg" />
 </h1>
 
+## Deploy em : https://widget-feedback-mrqs.vercel.app/
+
 ## 💻 Projeto
 Um Widget de feedback para o usuário enviar ao dono do site um feedback, do tipo Bug, Ideia e Outro. É inserido um texto junto à uma screenshot da tela do usuário. Também é enviado um email para o proprietário com as informações do feedback do usuário.
 
